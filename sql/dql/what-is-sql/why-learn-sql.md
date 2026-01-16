@@ -1,5 +1,5 @@
 ---
-author: kapnobatai136
+a بدا من صفر جي بي كا ار ديuthor: kapnobatai136
 type: normal
 category: must-know
 tags:
