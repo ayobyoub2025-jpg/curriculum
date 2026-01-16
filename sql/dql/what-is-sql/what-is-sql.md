@@ -53,7 +53,7 @@ Which of the queries below give you all the rows and columns from the `items` ta
 
 
 ---
-
+تهكير على كاميرا مراقبه اش اش تي في
 ## Revision
 
 How do you select all the rows and columns from the `products` table?
